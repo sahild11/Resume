@@ -1,3 +1,4 @@
 # hello-world
-hello world introductory program from github/p /n
+hello world introductory program from github
+
 this is a test message
