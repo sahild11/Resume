@@ -5,7 +5,7 @@
 <hr />
 
 ## Technical Skills
-- Proficient in `SAS`, `Python`, `VBA`, `SQL`, `Tableau`, and `R` 
+- Proficient in `SAS`, `Python`, `VBA`, `SQL`, `Tableau`, `Spotfire`, and `R` 
 - Knowledge of `Hadoop`, `Salesforce`, `SPSS Modeler`, `VB Script`, `SAP`, `Cognos`, and `AutoIt` 
 
 <hr />
@@ -13,7 +13,8 @@
 ## Experience
 Position |Company| Dates | Focus Areas
 -------- | ----- | ----- | ---------------
-Channel Marketing Analyst |**Shell Oil Products**| 2018 – (Current) |<ul><li>Automation and enhancement of existing retail channel reporting </li><li>Integration of data from a variety of marketing resources to enable deep dive analysis and presentation of insights to internal and external stakeholders</li><li>Software Used: `Python`, `Tableau`, `Salesforce`</li></ul>
+Data Science Analyst |**ConocoPhillips**| 2019 – (Current) |<ul><li>Analysis and visualization of production processes </li><li>Cost reduction and normalization, root cause analysis, and schedule optimization</li><li>Software Used: `Python`, `Spotfire`, `Teradata`</li></ul>
+Channel Marketing Analyst |**Shell Oil Products**| 2018 – 2019 |<ul><li>Automation and enhancement of existing retail channel reporting </li><li>Integration of data from a variety of marketing resources to enable deep dive analysis and presentation of insights to internal and external stakeholders</li><li>Software Used: `Python`, `Tableau`, `Salesforce`</li></ul>
 Business Intelligence Specialist |**Apache Corporation**| 2017 - 2018|<ul><li>Enabled analytical process to evaluate and improve drilling processes, including data audit, data wrangling and cleanup, data enhancement, and model building</li><li>Created, documented, and curated analytical dataset for analysis of completions data</li><li>Software Used: `Python`, `SAS Enterprise Guide`, `SAS Management Console`, `SAS DI Studio`, `SAS Enterprise Miner`, `Linux`, `Hadoop`, `OSISoft PI`, `Oracle`</li></ul>
 Data Scientist |**Optimal Strategix Group**| 2016 - 2017|<ul><li>Led engagements in customer-centric marketing plan development and execution</li><li>Managed team of data scientists, predictive modelers, and software developers</li><li>Delivered multiple projects from inception to completion with varying levels of scope</li><li>Software Used: `R`, `Postgres`</li></ul>
 Enterprise Data Analyst |**American National Insurance Company**| 2015 – 2016|<ul><li>Managed the implementation and use of SAS Enterprise products, including training</li><li>Using `SAS Management Console`, `R`, `SAS Enterprise Miner`, `SAS Enterprise Guide`, `Cognos`, `Excel`, `VBA`, `SPSS Modeler`</li></ul>
