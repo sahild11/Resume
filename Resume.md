@@ -9,8 +9,6 @@
 - Knowledge of `Hadoop`, `Salesforce`, `SPSS Modeler`, `VB Script`, `SAP`, `Cognos`, and `AutoIt` 
 
 <hr />
-nasdfafawefasdfsfd
-asdfasdfasfsfsf
 
 ## Experience
 Position |Company| Dates | Focus Areas
