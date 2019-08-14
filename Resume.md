@@ -22,6 +22,9 @@ Predictive Modeler |**American National Insurance Company**| 2014 – 2015|<ul><
 Consultant |**Berkeley Research Group**| 2012 - 2013|<ul><li>Provided analysis and decision support to hospital leadership in the Healthcare Process Improvement practice</li><li>Developed financial and economic models for legal firms in cases of litigation, antitrust, or other regulatory issues</li><li>Produced reports/charts to communicate findings and analysis to attorneys, courts, and government agencies</li><li>Using `SAS`, `SQL`, `VBA`, and `Tableau`</li></ul>
 Competitive Intelligence Analyst |**American General Life (AIG)**| 2011 - 2012|<ul><li>Responsible for financial planning and review of quarterly reports for marketing group for senior management</li><li>Provided sales support by creating reports for distributors on competitive strengths and weaknesses of products</li><li>Using `SAP`, `Excel`, `VBA`, `VBScript`, `AutoIt`</li></ul>
 
+<hr />
+<br>
+
 ## Education
 Degree |Institution|Location| Dates 
 -------- | ----- | ----- | ----- 
